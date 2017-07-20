@@ -98,6 +98,8 @@ header {
 
 /* -- Begin Body -- */
 
+/* HERO SPACE */
+
 .container {
     max-width: 100%;
     height: 301px;
@@ -144,7 +146,7 @@ header {
 }
 
 .read_button {
-    background-color: #26a143;
+    background-color: #28a745;
     color: white;
 }
 
@@ -152,9 +154,11 @@ header {
     background-color: #f4f6f7;
 }
 
+/* Left Content Box */
+
 .left-content {
     display: inline-block;
-    height: 216px;
+    height: 230px;
     width: 700px;
     border: 3px dashed lightgrey;
     border-radius: 3px;
@@ -163,12 +167,12 @@ header {
 }
 
 .left-content h2 {
-    padding: 20px 10px 10px 20px;
+    padding: 30px 10px 10px 25px;
     letter-spacing: .5px;
 }
 
 .left-content p {
-    padding: 0 10px 10px 20px;
+    padding: 0 10px 10px 25px;
     font-size: 18px;
     letter-spacing: .5px;
 }
@@ -186,5 +190,7 @@ header {
     color: #0366d6;
     font-size: 14px;
     font-weight: bold;
-    margin: 10px 0 0 20px;
+    margin: 10px 0 0 25px;
 }
+
+/* Right Content Box */
