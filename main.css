@@ -107,3 +107,23 @@ header {
     position: absolute;
     right: 353px;
 }
+
+.hero_content {
+    display: inline-block;
+    max-width: 600px;
+}
+
+.hero_content h2 {
+    color: #393f43;
+    font-size: 28px;
+    font-weight: 300;
+    padding-top: 60px;
+    padding-bottom: 20px;
+    letter-spacing: 1px;
+}
+
+.hero_content p {
+    color: #393f43;
+    font-size: 18px;
+    padding-bottom: 20px;
+}
